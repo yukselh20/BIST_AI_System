@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project Data
+data/
+*.csv
+*.xlsx
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/

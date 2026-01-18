@@ -1,0 +1,16 @@
+pandas
+numpy
+torch
+torchvision
+transformers
+zeyrek
+ta-lib
+pandas-ta
+psycopg2-binary
+sqlalchemy
+requests
+beautifulsoup4
+websocket-client
+streamlit
+python-dotenv
+loguru
