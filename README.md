@@ -195,8 +195,6 @@ bist-ai-system/
 
 ---
 
-**License:** MIT
-
 **Author:** Hamza Yuksel
 
 **Version:** 1.0.0
